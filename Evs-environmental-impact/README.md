@@ -45,6 +45,7 @@ https://ev-database.org/cheatsheet/useable-battery-capacity-electric-car
 
 ## Presentation
 
-The final presentation of this project is available here:  
-(Presentation/Final_project_EVs.pdf)
+The final presentation of this project is available here [here](Presentation/Final_project_EVs.pdf).  
+
+
 
